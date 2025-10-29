@@ -1,5 +1,3 @@
-# eShop - Multi Vendor eCommerce Marketplace CMS
-
 ## Introduction
 
 eShop is a modern multi-vendor marketplace platform where vendors, store owners, retailers, and wholesalers can showcase or sell their products in a single platform. It offers a powerful admin dashboard, seller panel, and delivery boy panel with comprehensive features for managing an online marketplace.
@@ -8,27 +6,6 @@ eShop is a modern multi-vendor marketplace platform where vendors, store owners,
 
 **Current Version: v2.10.4** (Released: 20-Mar-2025)
 
-## Demo Credentials
-
-### Frontend Demo
-- **URL**: [https://vendor.eshopweb.store/](https://vendor.eshopweb.store/)
-- **Mobile**: 9974692496
-- **Password**: 12345678
-
-### Admin Dashboard Demo
-- **URL**: [https://vendor.eshopweb.store/admin/login](https://vendor.eshopweb.store/admin/login)
-- **Mobile**: 9876543210
-- **Password**: 12345678
-
-### Seller Dashboard Demo
-- **URL**: [https://vendor.eshopweb.store/seller/login](https://vendor.eshopweb.store/seller/login)
-- **Mobile**: 9988776655
-- **Password**: 12345678
-
-### Delivery Boy Dashboard Demo
-- **URL**: [https://vendor.eshopweb.store/delivery_boy/login](https://vendor.eshopweb.store/delivery_boy/login)
-- **Mobile**: 1234567890
-- **Password**: 12345678
 
 ## Key Features
 
@@ -107,8 +84,6 @@ eShop is a modern multi-vendor marketplace platform where vendors, store owners,
 3. Import the blank database into phpMyAdmin (found in eShop Multi Vendor - blank database - vX.X.X)
 4. Delete the install folder from your server
 5. Access your system using default credentials:
-   - Mobile: 9876543210
-   - Password: 12345678
 
 ## Updating the System
 
@@ -192,5 +167,3 @@ This product is licensed under the Envato Regular License or Extended License ba
 ---
 
 © 2025 eShop by Infinitietech. All rights reserved.
-
-For documentation and updates, visit: [eShop Documentation](https://wrteamdev.github.io/eShop_Multivendor_App_Doc/web/index.html)
